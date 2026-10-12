@@ -1,1 +1,27 @@
-Login feature added
+LOGIN MODULE
+==============================
+
+MODULE DESCRIPTION
+The login module represents user authentication.
+This is a demonstration module for Git practice.
+
+FEATURE DETAILS
+1. User enters an email address.
+2. User enters a password.
+3. The system validates the input.
+4. Invalid input should display an error message.
+5. Valid credentials should allow access.
+6. Password fields should hide typed characters.
+7. Empty fields should trigger validation.
+8. Authentication failures should be handled safely.
+
+TESTING SCENARIOS
+TC_LOGIN_001: Verify login with valid credentials.
+TC_LOGIN_002: Verify login with invalid credentials.
+TC_LOGIN_003: Verify login with empty email.
+TC_LOGIN_004: Verify login with empty password.
+TC_LOGIN_005: Verify password masking.
+
+NOTE
+These are proposed requirements and test scenarios.
+No functional login implementation is included.

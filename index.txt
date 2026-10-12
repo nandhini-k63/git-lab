@@ -1,1 +1,28 @@
-Welcome to my project
+PROJECT OVERVIEW
+==============================
+
+Project Name: Git Lab
+Project Type: Git and GitHub Practical Assignment
+
+DESCRIPTION
+This project demonstrates basic Git version control.
+It includes practical examples of Git commits and branches.
+It also demonstrates cherry-pick and rebase operations.
+
+PROJECT OBJECTIVES
+1. Understand Git repository initialization.
+2. Learn how to create and manage branches.
+3. Practice staging and committing changes.
+4. Understand how cherry-pick works.
+5. Learn how rebase changes commit history.
+6. Connect a local repository to GitHub.
+7. Push branches to a remote repository.
+8. Review commits using GitHub.
+
+PROJECT MODULES
+- Login Module
+- Profile Module
+- Dashboard Module
+
+PROJECT STATUS
+Git practical exercises completed.

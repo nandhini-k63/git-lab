@@ -1,1 +1,27 @@
-Profile feature added
+PROFILE MODULE
+==============================
+
+MODULE DESCRIPTION
+The profile module represents user account information.
+This is a demonstration module for Git practice.
+
+FEATURE DETAILS
+1. Display the user's name.
+2. Display the user's email address.
+3. Allow editing of profile information.
+4. Validate required profile fields.
+5. Provide a save button.
+6. Show confirmation after successful updates.
+7. Prevent invalid data from being saved.
+8. Provide an option to cancel changes.
+
+TESTING SCENARIOS
+TC_PROFILE_001: Verify profile information is displayed.
+TC_PROFILE_002: Verify editing a username.
+TC_PROFILE_003: Verify email validation.
+TC_PROFILE_004: Verify saving profile changes.
+TC_PROFILE_005: Verify cancelling changes.
+
+NOTE
+These are proposed requirements and test scenarios.
+No functional profile implementation is included.

@@ -1,1 +1,27 @@
-Dashboard feature added
+DASHBOARD MODULE
+==============================
+
+MODULE DESCRIPTION
+The dashboard represents the main application overview.
+This is a demonstration module for Git practice.
+
+FEATURE DETAILS
+1. Display a welcome message.
+2. Show an overview of available modules.
+3. Provide navigation to the profile page.
+4. Provide navigation to other application sections.
+5. Display relevant summary information.
+6. Provide a logout option.
+7. Show loading indicators when necessary.
+8. Display error messages when data cannot be loaded.
+
+TESTING SCENARIOS
+TC_DASHBOARD_001: Verify dashboard loads successfully.
+TC_DASHBOARD_002: Verify welcome message.
+TC_DASHBOARD_003: Verify navigation links.
+TC_DASHBOARD_004: Verify logout option.
+TC_DASHBOARD_005: Verify error handling.
+
+NOTE
+These are proposed requirements and test scenarios.
+No functional dashboard implementation is included.
